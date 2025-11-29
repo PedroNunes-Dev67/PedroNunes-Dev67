@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Thiago Carvalho
+# 👋 Hi there, I'm Pedro Nunes
 
 **`Back-End Developer`**
 
-I'm a 19-year-old developer passionate about technology, problem-solving, and building clean, efficient, and scalable applications.  
+I'm a 20-year-old developer passionate about technology, problem-solving, and building clean, efficient, and scalable applications.  
 I'm always learning and sharpening my skills, especially in software development, web technologies, and system analysis.
 
 Welcome to my GitHub portfolio — here you can explore my projects, progress, and the solutions I'm building throughout my journey in tech.
@@ -55,13 +55,4 @@ Welcome to my GitHub portfolio — here you can explore my projects, progress, a
 <img align="left" alt="Angular" title="Angular" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg"/>
 
 <img align="left" alt="Maven" title="Maven" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"/>
-
-<img align="left" alt="NHibernate" title="NHibernate" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nhibernate/nhibernate-plain-wordmark.svg"/>
-
 <br/><br/>
-
----
-
-### 📈 GitHub Stats
-
-[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Tayssobrt/github-readme-stats)
