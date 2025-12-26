@@ -32,8 +32,8 @@ Welcome to my GitHub portfolio — here you can explore my projects, progress, a
 
 ### 📚 To Study Next
 
-<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg"/>
-
+<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+          
 <img align="left" alt="Go" title="Go" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
 
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
