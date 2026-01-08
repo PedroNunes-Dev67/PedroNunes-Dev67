@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pedro Nunes
 
-**Fullstack Developer`**
+**Back-end Developer`**
 
 I'm a 20-year-old developer passionate about technology, problem-solving, and building clean, efficient, and scalable applications.  
 I'm always learning and sharpening my skills, especially in software development, web technologies, and system analysis.
