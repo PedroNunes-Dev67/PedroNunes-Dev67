@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm Pedro Nunes
+# 👋 Olá, me chamo Pedro Nunes
 
 **Back-end Developer**
 
-I'm a 20-year-old developer passionate about technology, problem-solving, and building clean, efficient, and scalable applications.  
-I'm always learning and sharpening my skills, especially in software development, web technologies, and system analysis.
+Desenvolvedor Back-end Java Júnior, com foco em Spring Boot e construção de APIs REST seguras, escaláveis e bem documentadas.
 
-Welcome to my GitHub portfolio — here you can explore my projects, progress, and the solutions I'm building throughout my journey in tech.
+Possuo experiência prática no desenvolvimento de aplicações utilizando Java, Spring Boot, Spring Data JPA, Hibernate, Spring Security e autenticação JWT baseada em roles, além de integração com bancos de dados SQL (PostgreSQL, MySQL, H2) e NoSQL (MongoDB).
 
+Atuo com modelagem de domínio, criação de relacionamentos complexos entre entidades, validações, tratamento centralizado de exceções e arquitetura em camadas (Controller, Service, Repository). Todas as APIs desenvolvidas são documentadas com OpenAPI/Swagger e testadas com Jnuit e Mockito.
 
 ### 🤖 Skills
 
