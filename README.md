@@ -35,14 +35,15 @@ Welcome to my GitHub portfolio — here you can explore my projects, progress, a
 <img align="left" alt="Swagger" title="Swagger" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 
 <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:10px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+
+<img align="left" alt="JUnit" title="JUnit" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
+
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+
+
+
+
                     
-<br/><br/>
-
-### 📚 To Study Next
-          
-<img align="left" alt="Go" title="Go" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
-
-<img align="left" alt="Aws" title="Aws" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 
           
 
