@@ -40,8 +40,7 @@ Atuo com modelagem de domínio, criação de relacionamentos complexos entre ent
 
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
 
-
-
+![Top Langs](https://github-readme-stats-one-sigma-2vyankp7bh.vercel.app/api/top-langs/?username=PedroNunes-Dev67&layout=compact&theme=tokyonight)
 
                     
 
