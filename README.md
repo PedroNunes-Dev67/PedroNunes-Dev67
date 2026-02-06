@@ -1,12 +1,44 @@
-# 👋 Olá, me chamo Pedro Nunes
+# 👋 Olá, eu sou o Pedro Nunes
 
-**Back-end Developer**
+**Desenvolvedor Back-end Java | Spring Boot | APIs REST**
 
-Desenvolvedor Back-end Java Júnior, com foco em Spring Boot e construção de APIs REST seguras, escaláveis e bem documentadas.
+Sou desenvolvedor Back-end Java, com foco em Spring Boot e construção de APIs REST seguras, escaláveis e bem documentadas.  
+Tenho experiência prática com autenticação JWT, Spring Security, JPA/Hibernate e integração com bancos de dados SQL e NoSQL.
 
-Possuo experiência prática no desenvolvimento de aplicações utilizando Java, Spring Boot, Spring Data JPA, Hibernate, Spring Security e autenticação JWT baseada em roles, além de integração com bancos de dados SQL (PostgreSQL, MySQL, H2) e NoSQL (MongoDB).
+Atuo com:
+- Modelagem de domínio
+- Relacionamentos complexos entre entidades (JPA)
+- Validações e tratamento global de exceções
+- Arquitetura em camadas (Controller, Service, Repository)
+- Documentação com Swagger/OpenAPI  
+- Testes com JUnit e Mockito  
 
-Atuo com modelagem de domínio, criação de relacionamentos complexos entre entidades, validações, tratamento centralizado de exceções e arquitetura em camadas (Controller, Service, Repository). Todas as APIs desenvolvidas são documentadas com OpenAPI/Swagger e testadas com Jnuit e Mockito.
+Atualmente estudando **Docker** e arquitetura de aplicações modernas.
+
+---
+
+## 🚀 Tecnologias
+
+**Back-end**
+- Java | Spring Boot | Spring Data JPA | Hibernate | Spring Security | JWT
+
+**Front-end**
+- HTMl | CSS | JavaScript
+
+**Banco de Dados**
+- PostgreSQL | MySQL | MongoDB
+
+**DevOps & Ferramentas**
+- Docker | Git | Swagger | Postman
+
+**Testes**
+- JUnit | Mockito
+
+---
+
+## 📫 Contato
+- 💼 LinkedIn: https://www.linkedin.com/in/pedronunesdev
+- ✉️ Email: pedronunes.dev67@gmail.com
 
 ### 🤖 Skills
 
@@ -41,7 +73,6 @@ Atuo com modelagem de domínio, criação de relacionamentos complexos entre ent
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
 
 ![Top Langs](https://github-readme-stats-one-sigma-2vyankp7bh.vercel.app/api/top-langs/?username=PedroNunes-Dev67&layout=compact&theme=tokyonight)
-
                     
 
           
