@@ -20,7 +20,7 @@ Atualmente estudando **Docker** e arquitetura de aplicações modernas.
 ## 🚀 Tecnologias
 
 **Back-end**
-- Java | Spring Boot | Spring Data JPA | Hibernate | Spring Security | JWT
+- Java | Spring Boot | Spring Data JPA | Hibernate | Spring Security | JWT | Node
 
 **Front-end**
 - HTMl | CSS | JavaScript
@@ -45,8 +45,6 @@ Atualmente estudando **Docker** e arquitetura de aplicações modernas.
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
 <img align="left" alt="Spring" title="Spring" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-
-<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
 <img align="left" alt="Azure SQL" title="Azure SQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 
