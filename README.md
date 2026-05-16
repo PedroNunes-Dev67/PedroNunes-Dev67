@@ -37,14 +37,6 @@
 
 </div>
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroNunes-Dev67&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNunes-Dev67&layout=donut&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <br>
 
 <div align="center">
