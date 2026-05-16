@@ -1,76 +1,282 @@
-# 👋 Olá, eu sou o Pedro Nunes
+<!-- COR PRINCIPAL -->
+<!-- 00B4D8 -->
 
-**Desenvolvedor Back-end Java | Spring Boot | APIs REST**
+<div align="center">
 
-Sou desenvolvedor Back-end Java, com foco em Spring Boot e construção de APIs REST seguras, escaláveis e bem documentadas.  
-Tenho experiência prática com autenticação JWT, Spring Security, JPA/Hibernate e integração com bancos de dados SQL e NoSQL.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Pedro%20Nunes&fontAlign=50&fontAlignY=38&color=0:0D1117,100:00B4D8&fontColor=FFFFFF&fontSize=46&desc=Full%20Stack%20Developer%20•%20Java%20%7C%20Python%20%7C%20Angular&descAlignY=58"/>
 
-Atuo com:
-- Modelagem de domínio
-- Relacionamentos complexos entre entidades (JPA)
-- Validações e tratamento global de exceções
-- Arquitetura em camadas (Controller, Service, Repository)
-- Documentação com Swagger/OpenAPI  
-- Testes com JUnit e Mockito  
+</div>
 
-Atualmente estudando **Docker** e arquitetura de aplicações modernas.
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+full+stack+solutions+end-to-end;Java+%2B+Python+%2B+Angular+%2B+Docker;Always+learning%2C+always+shipping"/>
 
-## 🚀 Tecnologias  <br>
+</div>
 
-**Back-end**  
+<br>
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<div align="center">
 
-<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+<a href="https://github.com/PedroNunes-Dev67">
+<img src="https://img.shields.io/github/followers/PedroNunes-Dev67?style=for-the-badge&logo=github&color=00B4D8&labelColor=0D1117"/>
+</a>
 
-<img align="left" alt="JWT" title="JWT" width="30px" style="padding-right:10px" src="https://jwt.io/img/pic_logo.svg"/>
+<a href="https://github.com/PedroNunes-Dev67?tab=repositories">
+<img src="https://img.shields.io/github/stars/PedroNunes-Dev67?style=for-the-badge&logo=github&color=00B4D8&labelColor=0D1117"/>
+</a>
 
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>  <br>
+<img src="https://komarev.com/ghpvc/?username=PedroNunes-Dev67&style=for-the-badge&color=00B4D8&labelColor=0D1117"/>
 
-**Front-end**  
+</div>
 
-<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<br>
 
-<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<div align="center">
 
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>  <br>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
 
-**Banco de Dados**
+</div>
 
-<img align="left" alt="Postgresql" title="Postgresql" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<div align="center">
 
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-          
-<img align="left" alt="Mongo Db" title="Mongo Db" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />  <br>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroNunes-Dev67&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-**DevOps & Ferramentas**
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNunes-Dev67&layout=donut&theme=tokyonight&hide_border=true"/>
 
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+</div>
 
-<img align="left" alt="Swagger" title="Swagger" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+<br>
 
-<img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:10px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<div align="center">
 
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>  <br>
+<img src="https://streak-stats.demolab.com?user=PedroNunes-Dev67&theme=tokyonight&hide_border=true&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"/>
 
+</div>
 
-**Testes**
+<br>
 
-<img align="left" alt="JUnit" title="JUnit" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
+<div align="center">
 
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
 
----
+</div>
 
-## 📫 Contato
-- 💼 LinkedIn: https://www.linkedin.com/in/pedronunesdev
-- ✉️ Email: pedronunes.dev67@gmail.com
+<div align="center">
 
-![Top Langs](https://github-readme-stats-one-sigma-2vyankp7bh.vercel.app/api/top-langs/?username=PedroNunes-Dev67&layout=compact&theme=tokyonight)
-                    
+# <img src="https://cdn.simpleicons.org/github/00B4D8" width="24"/> Main Stack
 
-          
+<br>
 
+<table>
+<tr>
 
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=java" width="65px"/>
+
+### Java
+
+`Spring Boot`  
+`JPA & Hibernate`  
+`REST APIs`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=python" width="65px"/>
+
+### Python
+
+`Scripting`  
+`Automation`  
+`Data Processing`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=angular" width="65px"/>
+
+### Angular
+
+`TypeScript`  
+`SPA Development`  
+`Component Design`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" width="65px"/>
+
+### Databases
+
+`MySQL`  
+`PostgreSQL`  
+`SQL Modeling`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
+
+</div>
+
+<div align="center">
+
+# <img src="https://cdn.simpleicons.org/intellijidea/00B4D8" width="24"/> Development Environment
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="220px">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="65px"/>
+
+### VS Code
+
+`Frontend`  
+`Quick Editing`  
+`Lightweight Workflow`
+
+</td>
+
+<td align="center" width="220px">
+
+<img src="https://skillicons.dev/icons?i=idea" width="65px"/>
+
+### IntelliJ IDEA
+
+`Java Development`  
+`Spring Ecosystem`  
+`Professional Workflow`
+
+</td>
+
+<td align="center" width="220px">
+
+<img src="https://skillicons.dev/icons?i=docker" width="65px"/>
+
+### Docker
+
+`Containers`  
+`Dev Environments`  
+`Deploy`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
+
+</div>
+
+<div align="center">
+
+# <img src="https://cdn.simpleicons.org/gitbook/00B4D8" width="24"/> Exploring Next
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=aws" width="65px"/>
+
+### AWS
+
+`Cloud Computing`  
+`Deployments`  
+`Scalability`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=kubernetes" width="65px"/>
+
+### Kubernetes
+
+`Orchestration`  
+`Microservices`  
+`Cloud Native`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=go" width="65px"/>
+
+### Go
+
+`Performance`  
+`Concurrency`  
+`Backend Services`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=linux" width="65px"/>
+
+### Linux
+
+`Terminal & Shell`  
+`Server Admin`  
+`Open Source`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
+
+</div>
+
+<div align="center">
+
+# <img src="https://cdn.simpleicons.org/git/00B4D8" width="24"/> Contribution Graph
+
+<img src="https://raw.githubusercontent.com/PedroNunes-Dev67/PedroNunes-Dev67/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### <i>"Code it. Ship it. Improve it."</i>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:00B4D8"/>
+
+</div>
