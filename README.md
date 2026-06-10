@@ -17,12 +17,12 @@
 
 <div align="center">
 
-<a href="https://github.com/PedroNunes-Dev67">
-<img src="https://img.shields.io/github/followers/PedroNunes-Dev67?style=for-the-badge&logo=github&color=00B4D8&labelColor=0D1117"/>
+<a href="https://github.com/PedroNunes-Dev67?tab=followers">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroNunes-Dev67&query=followers&style=for-the-badge&logo=github&label=Followers&color=00B4D8&labelColor=0D1117"/>
 </a>
 
 <a href="https://github.com/PedroNunes-Dev67?tab=repositories">
-<img src="https://img.shields.io/github/stars/PedroNunes-Dev67?style=for-the-badge&logo=github&color=00B4D8&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroNunes-Dev67&query=public_repos&style=for-the-badge&logo=github&label=Repos&color=00B4D8&labelColor=0D1117"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=PedroNunes-Dev67&style=for-the-badge&color=00B4D8&labelColor=0D1117"/>
@@ -30,6 +30,10 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroNunes-Dev67&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00B4D8&title_color=00B4D8"/>
+</div>
 
 <div align="center">
 
@@ -41,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PedroNunes-Dev67&theme=tokyonight&hide_border=true&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroNunes-Dev67&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -256,6 +260,38 @@
 # <img src="https://cdn.simpleicons.org/git/00B4D8" width="24"/> Contribution Graph
 
 <img src="https://raw.githubusercontent.com/PedroNunes-Dev67/PedroNunes-Dev67/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
+
+</div>
+
+<div align="center">
+
+# <img src="https://cdn.simpleicons.org/gmail/00B4D8" width="24"/> Get in Touch
+
+<br>
+
+<a href="https://linkedin.com/in/pedronunesdev">
+<img src="https://img.shields.io/badge/LinkedIn-pedronunesdev-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<a href="https://www.instagram.com/pedronunes_dev/">
+<img src="https://img.shields.io/badge/Instagram-pedronunes__dev-00B4D8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<br><br>
+
+<a href="mailto:pedrovitornunes89@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-pedrovitornunes89-00B4D8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<a href="mailto:pedronunes.dev67@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-pedronunes.dev67-00B4D8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a>
 
 </div>
 
