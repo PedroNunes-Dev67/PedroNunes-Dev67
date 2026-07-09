@@ -32,18 +32,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroNunes-Dev67&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00B4D8&title_color=00B4D8"/>
-</div>
-
-<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
 
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNunes-Dev67&layout=donut&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroNunes-Dev67&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true"/>
 
