@@ -18,7 +18,7 @@
 <div align="center">
 
 <a href="https://github.com/PedroNunes-Dev67?tab=followers">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroNunes-Dev67&query=%24.followers&style=for-the-badge&logo=github&label=Followers&color=00B4D8&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/PedroNunes-Dev67?style=for-the-badge&logo=github&color=00B4D8&labelColor=0D1117"/>
 </a>
 
 <a href="https://github.com/PedroNunes-Dev67?tab=repositories">
