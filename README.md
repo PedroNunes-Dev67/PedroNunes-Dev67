@@ -18,11 +18,11 @@
 <div align="center">
 
 <a href="https://github.com/PedroNunes-Dev67?tab=followers">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroNunes-Dev67&query=followers&style=for-the-badge&logo=github&label=Followers&color=00B4D8&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroNunes-Dev67&query=%24.followers&style=for-the-badge&logo=github&label=Followers&color=00B4D8&labelColor=0D1117"/>
 </a>
 
 <a href="https://github.com/PedroNunes-Dev67?tab=repositories">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroNunes-Dev67&query=public_repos&style=for-the-badge&logo=github&label=Repos&color=00B4D8&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroNunes-Dev67&query=%24.public_repos&style=for-the-badge&logo=github&label=Repos&color=00B4D8&labelColor=0D1117"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=PedroNunes-Dev67&style=for-the-badge&color=00B4D8&labelColor=0D1117"/>
@@ -30,9 +30,14 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PedroNunes-Dev67&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"/>
+</div>
+
+<br>
 
 <div align="center">
-
+  
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
 
 </div>
